@@ -1,8 +1,10 @@
 About the Project/Project Title
+
 CRUD Python module – A tool for Creating, Reading, Updating and Deleting a MongoDB database to be used by Grazioso Salvare, an international rescue-animal training company. The company also wanted an accompanying dashboard to go along with the CRUD module that would be able to provide a map location of the dog, filter the types of dogs based upon the preferred traits of the rescue dogs and a chart to identify the percentage of eligible dogs in the shelter. 
 
 
 Motivation
+
 The Motivation for this project is to provide Grazioso Salvare a method to manage a database of rescue-animals located in five of the animal shelters in the Austin, Texas region. Grazioso Salvare would like to be able to identify the age and breed of the dogs that fit the profile of potential search-and-rescue animals.
 
 Getting Started
@@ -26,6 +28,7 @@ To get a local copy of the accompanying Dashboard, follow these simple steps:
 Now you can incorporate the animal_shelter.py file into your project to use the create, read update and delete functions in the animal_shelter.py module.
 
 Installation
+
 To use this software, you will need to install the pymongo, pandas and Dash using the following command:
 
 python -m pip install pymongo
